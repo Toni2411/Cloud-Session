@@ -17,6 +17,9 @@ Skill lain:
 - `/ponytail-review` — review perubahan (diff, commit, atau PR).
 - `/ponytail-audit` — audit seluruh repo: bug, keamanan, kode yang bisa dihapus.
 - `/ponytail-debt` — daftar semua komentar `shortcut:` yang masih jadi utang.
+- `system-design-checklist` — dipakai otomatis saat membangun atau mereview backend, API, dan database.
+
+Catatan riset: `riset/aiwithaidityas/RANGKUMAN.md` (rangkuman 66 video TikTok @aiwithaidityas).
 
 Semua skill ada di `.claude/skills/`. Sumber dan lisensinya: [mattpocock/skills](https://github.com/mattpocock/skills) dan [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) (MIT, lihat `.claude/skills/_licenses/`). Di skill `implement`, langkah review diganti dari `code-review` ke `ponytail-review`.
 
